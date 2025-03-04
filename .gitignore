@@ -1,4 +1,4 @@
-# Logs
+uu# Logs
 logs
 *.log
 npm-debug.log*
@@ -36,3 +36,5 @@ jspm_packages/
 # Package lockfiles
 package-lock.json
 yarn.lock
+.results.json
+phase-1-javascript-variables-lab/
